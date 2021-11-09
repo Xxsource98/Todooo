@@ -6,11 +6,11 @@ Todooo is a simple mobile application where you can save your tasks. I made that
 
 # Features
 ```
-    - Create/Delete Tasks Sections (e.g. School, Life)
-    - Create/Delete Tasks 
-    - List of All Finished Tasks
-    - Dark Theme
-    - Delete All Sections/Tasks/Finished Tasks
+- Create/Delete Tasks Sections (e.g. School, Life)
+- Create/Delete Tasks 
+- List of All Finished Tasks
+- Dark Theme
+- Delete All Sections/Tasks/Finished Tasks
 ```
 
 # Build
