@@ -1,8 +1,8 @@
 # About
+Todooo is a simple mobile application where you can save your tasks. I made that app, because I wanted to try something new and the choice were React Native.
+
 ![whiteSections](https://user-images.githubusercontent.com/36642285/141013976-7ef03beb-063d-4e75-86a2-ced253406ee9.jpg)
 ![whiteTasks](https://user-images.githubusercontent.com/36642285/141013980-3e332ca5-7811-4ead-a5f1-3e372cd11691.jpg)
-
-Todooo is a simple mobile application where you can save your tasks. I made that app, because I wanted try something new and the choice were React Native.
 
 # Features
 ```
