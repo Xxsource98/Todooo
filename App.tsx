@@ -10,14 +10,6 @@ import { darkTheme, lightTheme, ThemeContext, SectionContext } from './src/compo
 import { ThemeProps } from "./src/types";
 import Sidebar from './src/components/sidebar';
 
-/*
-    TODO: 
-    
-    Fix: Warning: Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.
-    Add: Max length on title input on task and section name
-
-*/
-
 const App = () => {
     const [ currentTheme, setCurrentTheme ] = useState<ThemeProps>(lightTheme);
     const [ currentSection, setCurrentSection ] = useState<string>("null");
